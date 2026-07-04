@@ -10,3 +10,4 @@ Leetcode SQL questions and their explanations
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | [SQL](0183-customers-who-never-order/solution.sql) | [Notes](0183-customers-who-never-order/README.md) |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | [SQL](0175-combine-two-tables/solution.sql) | [Explanation](0175-combine-two-tables/README.md) |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | 🟢 Easy | [SQL](1795-rearrange-products-table/solution.sql) | [Explanation](1795-rearrange-products-table/README.md) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | [SQL](0182-duplicate-emails/solution.sql) | [Explanation](0182-duplicate-emails/README.md) |
